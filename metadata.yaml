@@ -1,0 +1,32 @@
+_repo: Siperiaan-karkoitettuna-b-Muistelmia-ja-vaikutelmia_74451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Välisalmi, Heikki
+    aliases:
+    - Valisalmi, Heikki
+    - Karttunen, Johan Henrik
+    - Hesekiel
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '57036'
+    url: http://www.gutenberg.org/2009/agents/57036
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_V%C3%A4lisalmi
+description: ''
+gutenberg_issued: '2024-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74451'
+language: fi
+pgterms:marc905: 20240412022823vlisalmi
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Siperiaan karkoitettuna : $b Muistelmia ja vaikutelmia'
+url: http://www.gutenberg.org/ebooks/74451
