@@ -1,5 +1,8 @@
 _repo: Siperiaan-karkoitettuna-b-Muistelmia-ja-vaikutelmia_74451
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Välisalmi, Heikki
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57036
     wikipedia: https://fi.wikipedia.org/wiki/Heikki_V%C3%A4lisalmi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74451#Siperiaan-karkoitettuna-b-Muistelmia-ja-vaikutelmia
 gutenberg_issued: '2024-09-20'
 gutenberg_type: Text
 identifiers:
